@@ -55,6 +55,7 @@ numpy
 seaborn
 matplotlib
 scikit-learn
+---
 
 ## 📊 Key Visualizations
 - 📊 Bar charts showing subscription count by job and marital status
