@@ -49,12 +49,13 @@ The objective of this task is to build a **Decision Tree Classifier** using the 
 
 ## 🛠️ Libraries Used
 
-```python
-pandas
-numpy
-seaborn
-matplotlib
-scikit-learn
+- python
+- pandas
+- numpy
+- seaborn
+- matplotlib
+- scikit-learn
+
 ---
 
 ## 📊 Key Visualizations
@@ -64,16 +65,20 @@ scikit-learn
 - ⭐ Feature importance plot generated from the trained tree model, showing which inputs mattered most
 
 ---
+
 ## 💡 Insights & Learning
 - Decision trees provide excellent model transparency, making it easier to explain decisions to non-technical stakeholders.
 - Categorical data must be preprocessed properly to avoid incorrect splits and misleading inferences.
 - The target variable is imbalanced (many more “no”s than “yes”s), which should influence model selection and metric interpretation.
 
 🧠 "A good model doesn’t just predict well — it should also explain why."
+
 ---
+
 ## Summary
 This task emphasized the importance of:
 - ✅ Data preprocessing for categorical machine learning problems
 - ✅ Using decision trees for both prediction and interpretation
 - ✅ Evaluating classifiers using proper metrics, especially when working with imbalanced datasets
+
 ---
