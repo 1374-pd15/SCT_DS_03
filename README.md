@@ -61,7 +61,6 @@ The objective of this task is to build a **Decision Tree Classifier** using the 
 ## 📊 Key Visualizations
 - 📊 Bar charts showing subscription count by job and marital status
 - 🥧 Pie chart representing the proportion of customers who subscribed (yes vs no)
-- 🌳 Full decision tree diagram using dtreeviz — interactively color-coded by feature splits and target classes
 - ⭐ Feature importance plot generated from the trained tree model, showing which inputs mattered most
 
 ---
